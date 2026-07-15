@@ -27,3 +27,4 @@ Most labs were completed in a home lab environment using VirtualBox with Kali Li
 ## Contact
 - Email: marynyerere00@gmail.com
 - GitHub: [@Mary-rere](https://github.com/Mary-rere)
+- LinkedIn: [linkedin.com/in/mary-nyerere-b57760245](https://www.linkedin.com/in/mary-nyerere-b57760245/)
