@@ -8,4 +8,4 @@
 ![Initial network diagram](initial-network-diagram.png)
 
 ## Redesigned Network
-![Redesigned network diagram](redesigned-network-diagram.png)
+![Redesigned network diagram](redesigned-network-diagram.jpeg)
