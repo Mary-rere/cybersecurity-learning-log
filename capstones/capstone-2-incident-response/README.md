@@ -33,11 +33,8 @@ Every claim is labeled confirmed, attempted, or unconfirmed. A network connectio
 - **Long-term:** automated offboarding, SIEM, MFA, Linux/DMZ EDR parity, phishing simulations
 
 ## Deliverables
-- [Incident Response Report](report/IR_Report.pdf)
-- [Presentation](presentation/IR_Pitch.pptx)
-- [Attack timeline](analysis/timeline.md)
-- [IoCs](analysis/iocs.md)
-- [MITRE ATT&CK mapping](analysis/mitre-attack-mapping.md)
+- [Incident Response Report](ir_report.pdf)
+- [Presentation](pitch_deck.pptx)
 
 ## Skills Demonstrated
 Log correlation (Snort, Zeek, Windows Event Logs), IoC extraction, timeline reconstruction, MITRE ATT&CK mapping, NIST-style IR lifecycle, evidence-based reporting, business-impact communication.
